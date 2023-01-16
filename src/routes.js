@@ -3,10 +3,11 @@ import Inicio from "./paginas/Inicio";
 import SobreMiM from "./paginas/SobreMim";
 import Menu from "./componentes/Menu";
 
-function App() {
+function AppRoutes() {
   return (
     <BrowserRouter>
-    <Menu />
+      <Menu />
+
       <Routes>
         <Route path="/" element={<Inicio />} />
         <Route path="/sobremim" element={<SobreMiM />} />
@@ -16,4 +17,4 @@ function App() {
   );
 }
 
-export default App;
+export default AppRoutes;
