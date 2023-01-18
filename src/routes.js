@@ -12,7 +12,7 @@ function AppRoutes() {
   return (
     <BrowserRouter>
       <ScrollToTop />
-      
+
       <Menu />
 
       <Routes>
@@ -21,7 +21,7 @@ function AppRoutes() {
           <Route path="sobremim" element={<SobreMiM />} />
         </Route>
 
-        <Route path="posts/:id" element={<Post />} />
+        <Route path="posts/:id/*" element={<Post />} />
         <Route path="*" element={<NaoEncontrada />} />
       </Routes>
 

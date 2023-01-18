@@ -24,8 +24,6 @@ export default function Post() {
         .sort((a, b) => b.id - a.id)
         .slice(0, 4)
 
-    console.log(postsRecomendados)
-
     return (
         <Routes>
             <Route path="*" element={<PaginaPadrao />}>
