@@ -7,6 +7,10 @@
     transition: transform .2s;
 }
 
+img {
+    border-radius: 10px 10px 0px 0px;
+}
+
 .post:hover {
     transform: translate(0, -1rem);
 }
