@@ -1,5 +1,5 @@
 .banner {
-    padding: 3rem 7.5rem 6.25rem;
+    padding: 3rem 7.5rem 4.25rem;
     background-color: var(--azul-escuro);
     color: var(--branco);
     display: grid;
@@ -17,12 +17,12 @@
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     line-height: 2rem;
-    margin-bottom: 2rem;
+    /* margin-bottom: 2rem; */
 }
 
 .imagens {
     position: relative;
-    height: 406px;
+    height: 500px;
 }
 
 .imagens > .minhaFoto {

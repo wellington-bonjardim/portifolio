@@ -47,6 +47,14 @@
     padding: 1rem;
     background-color: #eaeaea;
     border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.3s;
+}
+
+.post-markdown-container blockquote:hover {
+    scale: 1.1;
 }
 
 .post-markdown-container pre {
