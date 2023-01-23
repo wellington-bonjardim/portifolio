@@ -18,7 +18,7 @@ export default function Post() {
     if(!post) {
         return <NaoEncontrada />
     }
-
+    
     const postsRecomendados = posts
         .filter((post) => post.id !== Number(parametros.id))
         .sort((a, b) => b.id - a.id)
