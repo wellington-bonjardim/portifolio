@@ -1,5 +1,5 @@
 .banner {
-    padding: 3rem 7.5rem 4.25rem;
+    padding: 3rem 7.5rem 6.25rem;
     background-color: var(--azul-escuro);
     color: var(--branco);
     display: grid;
@@ -17,12 +17,12 @@
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     line-height: 2rem;
-    /* margin-bottom: 2rem; */
+    margin-bottom: 2rem;
 }
 
 .imagens {
     position: relative;
-    height: 500px;
+    height: 406px;
 }
 
 .imagens > .minhaFoto {
@@ -38,7 +38,37 @@
     right: 7vw;
     bottom: 2.2vw;
     width: 25vw;
-} /*Talvez adicionar aqui um top: 2vh pois no monitor grande o circulo colorido tá saindo da parte azul do banner*/
+}
+
+@media (min-width: 1440px) {
+    .banner {
+        padding: 3rem 7.5rem 4.25rem;
+    }
+
+    .titulo {
+        margin-top: 6rem;
+        margin-bottom: 2rem;
+    }
+
+    .paragrafo {
+        margin-bottom: 4.5rem;
+    }
+
+    .imagens {
+        height: 500px;
+    }
+
+    .imagens > .minhaFoto {
+        width: 300px;
+        right: 16%;
+        top: 40%;
+    }
+
+    .imagens > .circuloColorido {
+        right: 25%;
+        width: 450px;
+    }
+}
 
 @media (max-width: 1100px) {    
     .banner {

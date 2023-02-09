@@ -11,7 +11,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>     
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque et earum in eaque reprehenderit minus, facilis excepturi esse voluptates debitis cupiditate tempora. Error sint amet laudantium velit sunt dolore porro.
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque et earum in eaque reprehenderit minus, facilis excepturi esse voluptates debitis cupiditate tempora. Error sint amet laudantium velit sunt dolore porro.  
                 </p>
             </div>
 
