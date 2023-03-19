@@ -20,22 +20,28 @@ export default function SobreMiM() {
             />
 
             <p className={styles.paragrafo}>
-                Oi, tudo bem? Eu sou instrutor de Front-end na Alura e estou feliz de te ver por aqui.
+                Fico muito feliz em tê-lo(a) aqui e gostaria de te convidar a conhecer um pouco mais sobre mim!
             </p>
             <p className={styles.paragrafo}>
-                Minha história com programação começou no Instituto Federal do Piauí (IFPI), quando fiz o ensino médio integrado ao curso de Informática. Eu aprendi lógica de programação e o básico de várias linguagens, como PHP, Python, Java, mas sem aprofundar muito em cada uma delas. Eu gostava muito de estudar programação, mas na época não fazia ideia de que trabalharia com isso hoje.
+                Sou formado em Licenciatura em Matemática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ), onde tive o meu primeiro contato com a programação através da disciplina "Introdução à Programação" que tinha como objetivo fornecer aos estudantes um primeiro contato com Python.
             </p>
             <p className={styles.paragrafo}>
-                No ensino superior, escolhi cursar Engenharia Elétrica na Universidade Federal do Piauí (UFPI). Lá eu consegui entrar no PET (Programa de Educação Tutorial), um grupo acadêmico que contribui de diversas formas para o curso. Lá eu tive a oportunidade de estudar desenvolvimento web para ser um dos mantenedores do site deles.
+                Neste momento, fiquei bastante curioso e admirado com as possibilidades que essa linguagem pode nos proporcionar e com tudo o que poderia ser feito. Porém, devido a circunstâncias da vida que envolviam estudos e trabalho, concluí a disciplina e não tive mais contato com a programação até concluir a faculdade. 
             </p>
             <p className={styles.paragrafo}>
-                Com isso tive minha experiência de dev mais próxima da realidade, com prazos de implementação para o site, e aprendi muito enquanto codificava.
+                Algum tempo depois, já formado e atuando como professor de Matemática, senti que ainda faltava algo na minha vida e que eu não estava envolvido o suficiente com algo que realmente amo desde a infância: a Tecnologia. Conversando sobre isso com um amigo programador, ele comentou comigo sobre o JavaScript e disse para que eu "desse uma olhada". Então lá fui eu, curioso como sempre, tentar conhecer o que era esse tal de JavaScript, e foi aí que eu realmente tive contato com o que estava faltando na minha vida!
             </p>
             <p className={styles.paragrafo}>
-                E foi enquanto eu estava no PET que decidi procurar um estágio em desenvolvimento web. Eu encontrei uma vaga na Alura para o Scuba Team e percebi que ela aliava duas paixões minhas: programação e educação. Para minha felicidade, fui escolhido para fazer parte do time.
+                A partir daí, comprei um curso de desenvolvimento web na Udemy e mergulhei no mundo da programação e descobri que realmente quero dedicar a minha vida profissional à programação. Neste curso, tive a oportunidade de ter contato com algumas tecnologias como Bootstrap, JavaScript, PHP(Orientação a Objetos | PDO | Arquitetura MVC), Apache, MySQL, AJAX, jQuery, SASS e IONIC. 
             </p>
             <p className={styles.paragrafo}>
-                Desde então, tem sido aprenas aprendizados atrás de aprendizados. A Alura é uma escola não só para seus alunos e alunas, mas também para os colaboradores e colaboradoras. Hoje sou muito feliz de ter a oportunidade de trazer esses conteúdos ricos e encantadores para você. Espero que aprenda bastante!
+                Ao concluir este curso, conheci a plataforma da Alura e resolvi conhecer um pouco sobre uma tecnologia que todos comentam: o React. Neste momento, fiquei completamente maravilhado com a inteligência desse framework. Sua objetividade, organização e desempenho que é proporcionado ao usuário realmente me deixaram encantado. Desde então, sigo estudando a respeito desta maravilhosa tecnologia que é o React e também tenho tido contato com o TypeScript.
+            </p>
+            <p className={styles.paragrafo}>
+                Paralelamente aos estudos, tenho tentado migrar para a área da tecnologia para enfim poder trabalhar com o que realmente amo e com o que me faz feliz! Dito isto, estou aberto a conversas e, se você leu até aqui, entre em contato comigo para podermos conversar através dos ícones que se encontram no rodapé desta página!
+            </p>
+            <p className={styles.paragrafo}>
+                Por fim, gostaria de agradecê-lo(a) por estar aqui! Fico realmente muito feliz por você estar aqui conhecendo um pouco mais sobre mim e sobre os meus projetos!
             </p>
 
         </PostModelo>

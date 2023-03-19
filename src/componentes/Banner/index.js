@@ -7,11 +7,11 @@ export default function Banner() {
         <div className={styles.banner}>
             <div className={styles.apresentacao}>
                 <h1 className={styles.titulo}>
-                    Olá!!! 
+                    Seja muito bem-vindo(a)!
                 </h1>
 
                 <p className={styles.paragrafo}>     
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque et earum in eaque reprehenderit minus, facilis excepturi esse voluptates debitis cupiditate tempora. Error sint amet laudantium velit sunt dolore porro.  
+                    Aqui compartilho alguns de meus projetos e também um pouco mais sobre quem eu sou! Fique à vontade para conhecer meus projetos e entrar em contato ! Meu nome é Wellington Bonjardim e sou desenvolvedor Full Stack!
                 </p>
             </div>
 
