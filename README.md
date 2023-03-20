@@ -5,7 +5,7 @@
 Ao desenvolver este projeto durante um curso na Alura sobre desenvolver em React Router com JavaScript, percebi que este projeto poderia servir como um portifólio para mim por ter um visual simples, objetivo e limpo! Por estes motivos, decidi refazer o projeto alterando o que julguei como necessário para que sua versão final correspondesse com o meu gosto pessoal.
 
 Ao desenvolver este projeto, foi possível aperfeiçoar os conhecimentos nas seguintes situações:
-- Desenvolver uma SPA com react-router-dom;
+- Desenvolver uma SPA(Single Page Application) com react-router-dom;
 - Trabalhar com rotas aninhadas;
 - Trabalhar com rotas dinâmicas;
 - Aperfeiçoar a utilização de componentes;
